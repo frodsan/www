@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.frodsan.com/post/postgres-data-types-on-rails/</loc>
+    <lastmod>2016-06-08T14:56:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frodsan.com/post/bundler-private-repositories/</loc>
+    <lastmod>2016-02-29T14:56:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.frodsan.com/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.frodsan.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.frodsan.com/tags/github/</loc>
+    <lastmod>2016-02-29T14:56:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.frodsan.com/tags/heroku/</loc>
+    <lastmod>2016-02-29T14:56:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.frodsan.com/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.frodsan.com/tags/postgres/</loc>
+    <lastmod>2016-06-08T14:56:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.frodsan.com/post/</loc>
+    <lastmod>2016-06-08T14:56:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.frodsan.com/tags/rails/</loc>
+    <lastmod>2016-06-08T14:56:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.frodsan.com/tags/ruby/</loc>
+    <lastmod>2016-06-08T14:56:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.frodsan.com/tags/</loc>
+    <lastmod>2016-02-29T14:56:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.frodsan.com/</loc>
+    <lastmod>2016-06-08T14:56:33+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

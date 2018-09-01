@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on frodsan</title>
+    <link>https://www.frodsan.com/page/</link>
+    <description>Recent content in Pages on frodsan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>frodsan@me.com (Francesco Rodríguez)</managingEditor>
+    <webMaster>frodsan@me.com (Francesco Rodríguez)</webMaster>
+    
+	<atom:link href="https://www.frodsan.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://www.frodsan.com/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>frodsan@me.com (Francesco Rodríguez)</author>
+      <guid>https://www.frodsan.com/page/about/</guid>
+      <description>Hi! My name is Francesco Rodríguez. I&amp;rsquo;m a software developer living in Oslo. I moved here from Peru (where I&amp;rsquo;m from) in 2016. I love code, video games, books, my 🐶 and ⚽.
+I currently work at Hyper as a Full-Stack Developer making web applications using my favorite stack: Ruby on Rails, Postgres, Redis and Heroku. You can read more about that in my resume.
+On my spare time, I&amp;rsquo;ve been playing with Go, Python and Machine Learning.</description>
+    </item>
+    
+  </channel>
+</rss>

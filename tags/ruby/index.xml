@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruby on frodsan</title>
+    <link>https://www.frodsan.com/tags/ruby/</link>
+    <description>Recent content in Ruby on frodsan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>frodsan@me.com (Francesco Rodríguez)</managingEditor>
+    <webMaster>frodsan@me.com (Francesco Rodríguez)</webMaster>
+    <lastBuildDate>Wed, 08 Jun 2016 14:56:33 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.frodsan.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Postgres Data Types on Rails</title>
+      <link>https://www.frodsan.com/post/postgres-data-types-on-rails/</link>
+      <pubDate>Wed, 08 Jun 2016 14:56:33 +0200</pubDate>
+      <author>frodsan@me.com (Francesco Rodríguez)</author>
+      <guid>https://www.frodsan.com/post/postgres-data-types-on-rails/</guid>
+      <description>After watching, @pvh’s talk about PostgreSQL data types, I started looking what default types ActiveRecord uses for PostgreSQL when running a database migration.
+By default, the ActiveRecord PostgreSQL adapter uses serial for primary keys, timestamp without time zone for datetime/timestamp, and varchar for strings (ref).
+Based on the suggestions of the talk, You probably want to use bigserial instead of serial, because of the larger amount of serial values (uuids are another option), and always timestamp with time zones.</description>
+    </item>
+    
+    <item>
+      <title>Bundler: Private Repositories</title>
+      <link>https://www.frodsan.com/post/bundler-private-repositories/</link>
+      <pubDate>Mon, 29 Feb 2016 14:56:33 +0200</pubDate>
+      <author>frodsan@me.com (Francesco Rodríguez)</author>
+      <guid>https://www.frodsan.com/post/bundler-private-repositories/</guid>
+      <description>This is a little guide on how to install private gems hosted in GitHub on the Heroku platform.
+0. Getting started To follow this guide, you need Bundler 1.11+.
+$ bundle --version Bundler version 1.11.2 1. Get your OAuth Token from GitHub To authenticate Bundler to GitHub, you will need an OAuth token. You can follow this guide to create a new one.
+2. Setting up your credentials To set up your credentials, use bundle-config like:</description>
+    </item>
+    
+  </channel>
+</rss>

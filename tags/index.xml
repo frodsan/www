@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on frodsan</title>
+    <link>https://www.frodsan.com/tags/</link>
+    <description>Recent content in Tags on frodsan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>frodsan@me.com (Francesco Rodríguez)</managingEditor>
+    <webMaster>frodsan@me.com (Francesco Rodríguez)</webMaster>
+    <lastBuildDate>Mon, 29 Feb 2016 14:56:33 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.frodsan.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Github</title>
+      <link>https://www.frodsan.com/tags/github/</link>
+      <pubDate>Mon, 29 Feb 2016 14:56:33 +0200</pubDate>
+      <author>frodsan@me.com (Francesco Rodríguez)</author>
+      <guid>https://www.frodsan.com/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heroku</title>
+      <link>https://www.frodsan.com/tags/heroku/</link>
+      <pubDate>Mon, 29 Feb 2016 14:56:33 +0200</pubDate>
+      <author>frodsan@me.com (Francesco Rodríguez)</author>
+      <guid>https://www.frodsan.com/tags/heroku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postgres</title>
+      <link>https://www.frodsan.com/tags/postgres/</link>
+      <pubDate>Wed, 08 Jun 2016 14:56:33 +0200</pubDate>
+      <author>frodsan@me.com (Francesco Rodríguez)</author>
+      <guid>https://www.frodsan.com/tags/postgres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rails</title>
+      <link>https://www.frodsan.com/tags/rails/</link>
+      <pubDate>Wed, 08 Jun 2016 14:56:33 +0200</pubDate>
+      <author>frodsan@me.com (Francesco Rodríguez)</author>
+      <guid>https://www.frodsan.com/tags/rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruby</title>
+      <link>https://www.frodsan.com/tags/ruby/</link>
+      <pubDate>Wed, 08 Jun 2016 14:56:33 +0200</pubDate>
+      <author>frodsan@me.com (Francesco Rodríguez)</author>
+      <guid>https://www.frodsan.com/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

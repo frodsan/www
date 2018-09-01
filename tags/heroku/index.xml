@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heroku on frodsan</title>
+    <link>https://www.frodsan.com/tags/heroku/</link>
+    <description>Recent content in Heroku on frodsan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>frodsan@me.com (Francesco Rodríguez)</managingEditor>
+    <webMaster>frodsan@me.com (Francesco Rodríguez)</webMaster>
+    <lastBuildDate>Mon, 29 Feb 2016 14:56:33 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.frodsan.com/tags/heroku/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bundler: Private Repositories</title>
+      <link>https://www.frodsan.com/post/bundler-private-repositories/</link>
+      <pubDate>Mon, 29 Feb 2016 14:56:33 +0200</pubDate>
+      <author>frodsan@me.com (Francesco Rodríguez)</author>
+      <guid>https://www.frodsan.com/post/bundler-private-repositories/</guid>
+      <description>This is a little guide on how to install private gems hosted in GitHub on the Heroku platform.
+0. Getting started To follow this guide, you need Bundler 1.11+.
+$ bundle --version Bundler version 1.11.2 1. Get your OAuth Token from GitHub To authenticate Bundler to GitHub, you will need an OAuth token. You can follow this guide to create a new one.
+2. Setting up your credentials To set up your credentials, use bundle-config like:</description>
+    </item>
+    
+  </channel>
+</rss>
