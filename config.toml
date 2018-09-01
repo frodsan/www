@@ -1,0 +1,39 @@
+baseURL = "https://www.frodsan.com/"
+languageCode = "en-us"
+title = "frodsan"
+theme = "beautifulhugo"
+canonifyurls = true
+googleAnalytics = "UA-123802654-1"
+disqusShortname = "frodsan-com"
+
+[Params]
+  subtitle = "Software Developer"
+  logo = "img/profile-100x100.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  comments = true
+  rss = true
+  readingTime = true
+  tags = true
+  socialShare = true
+
+[Author]
+  name = "Francesco Rodríguez"
+  role = "Software Developer"
+  location = "Oslo, Norway"
+  email = "frodsan@me.com"
+  linkedin = "frodsan"
+  github = "frodsan"
+  gitlab = "frodsan"
+  website = "https://www.frodsan.com"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 2
